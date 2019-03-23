@@ -1,2 +1,4 @@
 venv
 .idea
+SCNN-Tensorflow/lane-detection-model/data/
+SCNN-Tensorflow/lane-detection-model/model/
